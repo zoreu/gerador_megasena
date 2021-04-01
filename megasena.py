@@ -8,7 +8,7 @@ def megasena():
             n = randint(1, 60); #numero aleatório de 1 a 60
             if not n in mega_sena:            
                 mega_sena.append(n)                    
-                break;
+                break
     return mega_sena    
 
 def apostas():
@@ -25,6 +25,4 @@ def apostas():
     except:
         print('valor invalido, digite um número!')
 
-apostas()
-            
-            
+apostas()         
