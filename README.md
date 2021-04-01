@@ -3,7 +3,7 @@
 Copie o código abaixo e cole no https://extendsclass.com/python.html
 e clique em Run
 
-    from random import randint;
+    from random import randint
     def megasena():
         mega_sena = []
         #sortear 6 numeros
@@ -13,7 +13,7 @@ e clique em Run
                 n = randint(1, 60); #numero aleatório de 1 a 60
                 if not n in mega_sena:            
                     mega_sena.append(n)                    
-                    break;
+                    break
         return mega_sena    
     
     def apostas():
@@ -30,6 +30,6 @@ e clique em Run
         except:
             print('valor invalido, digite um número!')
     
-    apostas()  
+    apostas()
 
 Download script [megasena.py](https://raw.githubusercontent.com/zoreu/gerador_megasena/main/megasena.py)
