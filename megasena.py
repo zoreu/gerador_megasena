@@ -1,4 +1,4 @@
-from random import randint;
+from random import randint
 def megasena():
     mega_sena = []
     #sortear 6 numeros
