@@ -2,7 +2,7 @@
 
 Copie o código abaixo e cole no https://extendsclass.com/python.html
 
-não esqueça de remover o codigo da pagina antes
+não esqueça de remover o codigo já presente na pagina antes
 e clique em Run
 
     from random import randint
