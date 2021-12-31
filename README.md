@@ -1,6 +1,7 @@
 **Gerador da mega-sena**
 
 Copie o código abaixo e cole no https://extendsclass.com/python.html
+
 não esqueça de remover o codigo da pagina antes
 e clique em Run
 
