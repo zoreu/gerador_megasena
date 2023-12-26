@@ -16,8 +16,10 @@ def megasena():
             n = randint(1, 60); #numero aleatório de 1 a 60
             # sorteia numeros com maior probabilidade e não repetidos
             if not n in mega_sena and not n in range(39,43+1) and not n in range(45,52+1) and not n in range(54,57+1) and not n in range(59,60+1):
-                mega_sena.append(n)                    
-                break
+                # elimina numeros que nao saem na mega da virada
+                if not n in [7, 8, 9, 13, 19, 21, 26, 28, 39, 44, 48, 54, 60]:
+                    mega_sena.append(n)                    
+                    break
     return mega_sena    
 
 def apostas():
