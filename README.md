@@ -1,4 +1,4 @@
-**Gerador da mega-sena**
+**Gerador da mega-sena 2.0**
 
 Copie o código abaixo e cole no https://extendsclass.com/python.html
 
