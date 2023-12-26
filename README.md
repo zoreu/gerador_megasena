@@ -1,6 +1,6 @@
 **Gerador da mega-sena 2.0**
 
-Copie o código abaixo e cole no https://extendsclass.com/python.html
+Copie o código abaixo e cole no [https://extendsclass.com/python.html](https://www.programiz.com/python-programming/online-compiler/)
 
 não esqueça de remover o codigo já presente na pagina antes
 e clique em Run
